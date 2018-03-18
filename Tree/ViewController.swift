@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    
+    
     @IBOutlet weak var image: UIImageView!
 
     @IBOutlet weak var size: UILabel!
